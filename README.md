@@ -1,4 +1,4 @@
-# Artificial Inteligence Notebook (Python)  
+# Artificial Intelligence Notebook (Python)  
 What will you see here:  
 * Tensorflow
 * Keras
